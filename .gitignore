@@ -1,0 +1,6 @@
+.settings/
+bin/
+.classpath
+.project
+.DS_store
+Data.txt
